@@ -1,0 +1,34 @@
+{
+    "merkleRoot": "0x663bed2321aa02143da9cee317f74073e775a1a1f90bbc000e45636c7b10756f",
+    "addressTotal": "0x04",
+    "kycRecords": {
+        "0x203fA03947bea4cb7EDD0e22C9A435897cE0a377": {
+            "index": 0,
+            "proof": [
+                "0xa922b1ab18ea6ec3f74759a8797b6338bc9745ab1cfc2a5a87bc7c214df7c4cb",
+                "0x6e821cb5333da6f04bff2944722ffa08aa022a384917de4c47b3747b160c0f4c"
+            ]
+        },
+        "0x67a24b267E307be91261a02E69DCAFB3572ffC3B": {
+            "index": 1,
+            "proof": [
+                "0xfa46d734e4fd834603197e3aa7f6d1811084e32936f3532bea8023d26a245db4",
+                "0x6e821cb5333da6f04bff2944722ffa08aa022a384917de4c47b3747b160c0f4c"
+            ]
+        },
+        "0x611a9D685F91f1C2aEB14e642ACFEBc51977346e": {
+            "index": 2,
+            "proof": [
+                "0x64918efe8914e51fafc57a9800d5b1fb822ba204d5599a390f3d067e0e5297e7",
+                "0x48b43bd8524b7bf183c78a21ef16af303015bb817d564b1512ff25842a08c111"
+            ]
+        },
+        "0x1CE9a65c6b32aB58ad748AC3E3dbE9c15E112182": {
+            "index": 3,
+            "proof": [
+                "0x0f519904eff90a6d67c26a00632b6a6f2d4571faeb68bfca65872591d565ddd2",
+                "0x48b43bd8524b7bf183c78a21ef16af303015bb817d564b1512ff25842a08c111"
+            ]
+        }
+    }
+}
